@@ -1,0 +1,2 @@
+BOT_TOKEN = "7775419267:AAFxaVOwsnTJD_Blx7RV3vTTel0Bif_3whY"
+ADMIN_ID = rajumpc20
